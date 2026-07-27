@@ -7,8 +7,8 @@ import re
 from datetime import datetime
 
 # ==================== تنظیمات ====================
-BOT_TOKEN = "توکن_ربات_شما"
-ADMIN_IDS = [123456789]  # آیدی عددی ادمین‌ها
+BOT_TOKEN = "8423981755:AAFaEYzOefEaxDiuyvKKyyTJzlhDXWSqyRw"
+ADMIN_IDS = [8916314219]  # آیدی عددی ادمین‌ها
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode='HTML')
 
 # ==================== دیتابیس ====================
